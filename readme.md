@@ -27,7 +27,8 @@
 - **Python** 🐍  
 - **Go** 🦫  
 
-🚀 Open to learn **new technologies** and frameworks, in order to build innovative solutions and grow as a developer. 💡
+🚀 Open to learn **new technologies** and frameworks, in order to build innovative 
+   solutions and grow as a developer. 💡
 
 <!--Intro start-->
 ## 🔧 Skills
@@ -60,18 +61,6 @@
 
 
 <!-- Connect with me -->
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block;">JOIN MY CODING COMMUNITY</h2></summary>
-    <br>
-  <a href="https://discord.gg/UJdgSNESRS">
-    <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="Join my Discord server">
-  </a>
-  </ul>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -94,9 +83,9 @@
 
 
 <p align="center">
-<a href="https://github.com/Luc4st1574">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luc4st1574&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luc4st1574&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ExperienceV">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ExperienceV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ExperienceV&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
