@@ -14,50 +14,35 @@
 
 ## 👋 About Me!
 
-I'm a **passionate software developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
+**Software Developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
 
-### 🌐 My Interests
-- **Web Development** 🌍  
-- **Machine Learning** 🤖  
-- **Systems Programming** 🛠️  
+### 🌐 My Interest
+- **Back-End Development** 🌍  
+- **Automation** 🔄  
+- **Systems Programming** 🛠️
+- **DevOps** ♾️  
 
 
 ### ⚙️ Proficient Programming Languages
 - **Python** 🐍  
-- **Rust** 🦀  
-- **Go** 🏎️  
-- **JavaScript** ✨  
-- **Dart** 🎯  
+- **Go** 🦫  
 
-🚀 I'm always excited to dive into **new technologies** and frameworks, eager to build innovative solutions and grow as a developer. 💡
-
-
-
-## 🤓☝️ Milestones
-
-- ⭐ Github Star ⭐
-- 🧊 MSP Founder
-- ▶️ Youtuber +5k Followers
-- </> Full Stack Developer
-- 👾 APEC Hackathon Regional Winner
-
-#
+🚀 Open to learn **new technologies** and frameworks, in order to build innovative solutions and grow as a developer. 💡
 
 <!--Intro start-->
 ## 🔧 Skills
 
-- **Documentation:** Notion
-- **Frameworks:** Spring Boot, Django, Strapi, Trcp, Angular, Vue, React, Next.js, Node.js, Serverless
-- **Databases:** MySQL, SQLServer, PostgreSQL, MongoDB,
-- **Languages:** C++, Python, PHP, Rust, Java, HTML, CSS3, TypeScript, JavaScript, Dart
-- **Design:** Photoshop, Premiere Pro, After Effects, Audition, Cinema4D
-- **Others:** Blockchain y Web3, Machine Learning, Kubernetes, Docker, AWS
+- **Documentation:** Excalidraw, Notion, Swagger
+- **Frameworks:** FastAPI, Django, OpenAI, Selenium, Beautiful, SQLAlchemy, Gin
+- **Databases:** MySQL, PostgreSQL, Sqlite, Redis, MongoDB, Firebase
+- **Languages:** Python, Go, SQL
+- **Others:** Docker, DevOps, Cyber Segurity, Linux, English B2
 
 - 💬 Ask me about **any technology you find here**
 
-- 📫 Feel free to reach me out **lucasraulsa@outlook.com**
+- 📫 Feel free to reach me out **experiencev.dev@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [lucassantillana](https://www.linkedin.com/in/lucassantillana/) my username!
+- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [isaiasmendez](https://linkedin.com/in/experiencev/) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
@@ -69,7 +54,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,xd,figma,blender,unity,unreal,notion,md,cmake,docker,kubernetes,postman,c,cs,cpp,dart,go,java,kotlin,nodejs,php,py,rust,swift,html,css,js,ts,angular,bootstrap,django,dotnet,flask,flutter,laravel,react,spring,vue,pytorch,sklearn,tensorflow,visualstudio,vscode,arduino,androidstudio,linux,bash,anaconda,powershell,npm,pnpm,git,github,githubactions,azure,aws,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=notion,md,docker,go,py,html,css,js,ts,django,flask,vscode,linux,bash,anaconda,powershell,git,github,githubactions,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=14" />
   </a>
 </p>
 
@@ -80,7 +65,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
   <ul align="center">
     <summary><h2 style="display: inline-block;">JOIN MY CODING COMMUNITY</h2></summary>
     <br>
-  <a href="https://discord.gg/smzHyCNpnQ">
+  <a href="https://discord.gg/UJdgSNESRS">
     <img src="https://dcbadge.limes.pink/api/server/smzHyCNpnQ" alt="Join my Discord server">
   </a>
   </ul>
@@ -96,7 +81,7 @@ I'm a **passionate software developer** 🌟 with a strong enthusiasm for **cont
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/lucassantillana/" target="_blank">
+<a href="https://linkedin.com/in/experiencev/" target="_blank">
 <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
 </a>
 </p>
