@@ -43,7 +43,7 @@
 
 - 📫 Feel free to reach me out **experiencev.dev@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [isaiasmendez](https://linkedin.com/in/experiencev/) my username!
+- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [Isaías Méndez Mera](https://linkedin.com/in/experiencev/) my username!
 <!--Intro end-->
 
 <!--h1 without bottom border-->
