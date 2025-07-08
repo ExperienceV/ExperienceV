@@ -37,7 +37,7 @@
 - **Frameworks:** FastAPI, Django, OpenAI, Selenium, Beautiful, SQLAlchemy, Gin
 - **Databases:** MySQL, PostgreSQL, Sqlite, Redis, MongoDB, Firebase
 - **Languages:** Python, Go, SQL
-- **Others:** Docker, DevOps, Cyber Segurity, Linux, English B2
+- **Others:** Docker, DevOps, Cyber Security, Linux, English B2
 
 - 💬 Ask me about **any technology you find here**
 
