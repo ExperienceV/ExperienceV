@@ -24,7 +24,8 @@
 
 
 ### ⚙️ Proficient Programming Languages
-- **Python** 🐍  
+- **Python** 🐍
+- **Golang** 🦫
 
 🚀 Open to learn **new technologies** and frameworks, in order to build innovative 
    solutions and grow as a developer. 💡
