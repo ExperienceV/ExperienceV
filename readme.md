@@ -56,20 +56,6 @@ Currently studying **Computer Science Engineering** and continuously improving m
 
 ## 🚀 Featured Projects
 
-### 🎓 ByteTECH — Learning Management Platform
-
-Full-stack LMS developed as a freelance project.
-
-**Stack:** FastAPI · Next.js · PostgreSQL · Stripe · Docker · Nginx
-
-* Built authentication and user verification systems.
-* Integrated Stripe Checkout for course purchases.
-* Developed course and content management APIs.
-* Implemented private file delivery and application statistics.
-* Deployed the frontend and backend using Docker, Nginx and HTTPS.
-
----
-
 ### 🍽️ Orderly — Restaurant Order Management
 
 Full-stack restaurant management system focused on real-time order processing.
@@ -111,7 +97,7 @@ Distributed system for remotely managing and monitoring Linux servers.
 
 I'm open to opportunities involving **Backend Development, Full-Stack Development, APIs, automation, and cloud infrastructure**.
 
-* 🌐 Portfolio: **imdev.apeiriumx.com**
+* 🌐 Portfolio: **[imdev](https://imdev.apeiriumx.com)**
 * 💼 LinkedIn: [Isaías Méndez Mera](https://linkedin.com/in/experiencev/)
 * 📧 Email: **[im2developer@gmail.com](mailto:im2developer@gmail.com)**
 * 📍 Ecuador
