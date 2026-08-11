@@ -1,92 +1,123 @@
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block; color: red">Hi 👋, I'm <span style="color: blue">Isaias Mendez</span></h1></summary>
-  </ul>
-</div>
+# Hi, I'm Isaías Méndez 👋
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/ExperienceV/ExperienceV/blob/main/Banner.png" alt="Banner">
-</p>
+### Backend / Full-Stack Developer
 
-#
+I'm a software developer from Ecuador focused on building **backend systems, APIs, web applications, and infrastructure**.
 
-## 👋 About Me!
+I primarily work with **Python, FastAPI, PostgreSQL, Redis, and Docker**, while also building full-stack applications with **TypeScript, Next.js, and React**.
 
-**Software Developer** 🌟 with a strong enthusiasm for **continuous learning** 📚 and exploration in the tech world 💻.
+I enjoy working across the entire lifecycle of an application — from designing an API and database architecture to containerizing and deploying services on Linux servers.
 
-### 🌐 My Interest
-- **Back-End Development** 🌍  
-- **Automation** 🔄  
-- **Systems Programming** 🛠️
-- **DevOps** ♾️  
+---
 
+## 🧑‍💻 About Me
 
-### ⚙️ Proficient Programming Languages
-- **Python** 🐍
-- **Golang** 🦫
-- **C#**
+* 🔧 Backend development with **Python & FastAPI**
+* 🌐 Full-stack development with **Next.js & React**
+* 🗄️ Relational databases with **PostgreSQL, MySQL & SQLite**
+* ⚡ Real-time systems using **WebSockets, SSE & Redis**
+* 🐳 Containerization and deployment with **Docker & Nginx**
+* ☁️ Experience deploying applications to **AWS EC2 and VPS environments**
+* 🔄 CI/CD using **GitHub Actions**
+* 🐧 Comfortable working with **Linux servers**
+* 🦫 Experience building services and agents with **Go**
 
-🚀 Open to learn **new technologies** and frameworks, in order to build innovative 
-   solutions and grow as a developer. 💡
+Currently studying **Computer Science Engineering** and continuously improving my knowledge of software architecture, distributed systems, and cloud infrastructure.
 
-<!--Intro start-->
-## 🔧 Skills
+---
 
-- **Documentation:** Excalidraw, Notion, Swagger
-- **Frameworks:** FastAPI, Django, OpenAI, Selenium, Beautiful, SQLAlchemy, Gin
-- **Databases:** MySQL, PostgreSQL, Sqlite, Redis, MongoDB, Firebase
-- **Languages:** Python, Go, SQL
-- **Others:** Docker, DevOps, Cyber Security, Linux, English B2
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **any technology you find here**
+**Languages**
 
-- 📫 Feel free to reach me out **experiencev.dev@gmail.com**
+`Python` · `TypeScript` · `JavaScript` · `Go` · `SQL`
 
-- 🏠 Don't hesitate to drop me a **👋** on LinkedIn –  [Isaías Méndez Mera](https://linkedin.com/in/experiencev/) my username!
-<!--Intro end-->
+**Backend**
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
+`FastAPI` · `SQLAlchemy` · `Alembic` · `Node.js` · `Express`
+
+**Frontend**
+
+`Next.js` · `React` · `Tailwind CSS`
+
+**Databases**
+
+`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Firestore`
+
+**DevOps & Infrastructure**
+
+`Docker` · `Docker Compose` · `Nginx` · `GitHub Actions` · `Linux` · `AWS EC2` · `Cloudflare`
+
+**Other**
+
+`REST APIs` · `JWT` · `OAuth` · `WebSockets` · `SSE` · `Playwright` · `Selenium` · `Scrapy`
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 ByteTECH — Learning Management Platform
+
+Full-stack LMS developed as a freelance project.
+
+**Stack:** FastAPI · Next.js · PostgreSQL · Stripe · Docker · Nginx
+
+* Built authentication and user verification systems.
+* Integrated Stripe Checkout for course purchases.
+* Developed course and content management APIs.
+* Implemented private file delivery and application statistics.
+* Deployed the frontend and backend using Docker, Nginx and HTTPS.
+
+---
+
+### 🍽️ Orderly — Restaurant Order Management
+
+Full-stack restaurant management system focused on real-time order processing.
+
+**Stack:** FastAPI · Next.js · Redis · WebSockets · Docker
+
+* Built real-time kitchen order updates using WebSockets.
+* Implemented authentication, menus and order lifecycle management.
+* Developed delivery order workflows.
+* Containerized the application using Docker Compose.
+* Automated deployments with GitHub Actions.
+
+---
+
+### 🖥️ Linux Server Orchestrator
+
+Distributed system for remotely managing and monitoring Linux servers.
+
+**Stack:** Go · Python · FastAPI · Docker · Linux · PostgreSQL
+
+* Built a lightweight server agent using Go.
+* Developed a central orchestration API with FastAPI.
+* Implemented remote server and container management.
+* Extended the architecture to communicate with IoT devices such as ESP32 modules.
+
+---
+
+## 🔧 Technologies
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,docker,py,fastapi,linux,git,github,githubactions,cloudflare,firebase,mongodb,mysql,postgres,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,nextjs,react,go,postgres,mysql,sqlite,redis,docker,nginx,linux,git,github,githubactions,aws,cloudflare&perline=11" />
   </a>
 </p>
 
+---
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> 📫 Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## 📫 Contact
 
-<!--icons and links-->
-<p align="center">
-<a href="https://linkedin.com/in/experiencev/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
-</p>
+I'm open to opportunities involving **Backend Development, Full-Stack Development, APIs, automation, and cloud infrastructure**.
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
-  </ul>
-</div>
+* 🌐 Portfolio: **imdev.apeiriumx.com**
+* 💼 LinkedIn: [Isaías Méndez Mera](https://linkedin.com/in/experiencev/)
+* 📧 Email: **[im2developer@gmail.com](mailto:im2developer@gmail.com)**
+* 📍 Ecuador
 
+---
 
 <p align="center">
-<a href="https://github.com/ExperienceV">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ExperienceV&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ExperienceV&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <i>Building software, learning continuously, and turning ideas into working systems.</i>
 </p>
-
