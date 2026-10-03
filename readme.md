@@ -72,7 +72,7 @@ Distributed system for remotely managing and monitoring Linux servers.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,rust,go,postgres,mysql,sqlite,redis,docker,nginx,linux,aws,cloudflare&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,python,rust,go,postgres,redis,docker,nginx,linux,aws,cloudflare&perline=11" />
   </a>
 </p>
 
