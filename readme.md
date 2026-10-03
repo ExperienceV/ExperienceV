@@ -12,15 +12,12 @@ I enjoy working across the entire lifecycle of an application — from designing
 
 ## 🧑‍💻 About Me
 
-* 🔧 Backend development with **Python & FastAPI**
-* 🌐 Full-stack development with **Next.js & React**
+* 🔧 Backend development with **Python, Rust and Golang**
 * 🗄️ Relational databases with **PostgreSQL, MySQL & SQLite**
-* ⚡ Real-time systems using **WebSockets, SSE & Redis**
 * 🐳 Containerization and deployment with **Docker & Nginx**
 * ☁️ Experience deploying applications to **AWS EC2 and VPS environments**
 * 🔄 CI/CD using **GitHub Actions**
 * 🐧 Comfortable working with **Linux servers**
-* 🦫 Experience building services and agents with **Go**
 
 Currently studying **Computer Science Engineering** and continuously improving my knowledge of software architecture, distributed systems, and cloud infrastructure.
 
@@ -30,27 +27,15 @@ Currently studying **Computer Science Engineering** and continuously improving m
 
 **Languages**
 
-`Python` · `TypeScript` · `JavaScript` · `Go` · `SQL`
-
-**Backend**
-
-`FastAPI` · `SQLAlchemy` · `Alembic` · `Node.js` · `Express`
-
-**Frontend**
-
-`Next.js` · `React` · `Tailwind CSS`
+`Python` · `Go` · `Rust`
 
 **Databases**
 
-`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Firestore`
+`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `NoSQL`
 
 **DevOps & Infrastructure**
 
-`Docker` · `Docker Compose` · `Nginx` · `GitHub Actions` · `Linux` · `AWS EC2` · `Cloudflare`
-
-**Other**
-
-`REST APIs` · `JWT` · `OAuth` · `WebSockets` · `SSE` · `Playwright` · `Selenium` · `Scrapy`
+`Docker` · `Nginx` · `CI/CD` · `Linux` · `AWS EC2` · `Cloudflare`
 
 ---
 
@@ -74,10 +59,10 @@ Full-stack restaurant management system focused on real-time order processing.
 
 Distributed system for remotely managing and monitoring Linux servers.
 
-**Stack:** Go · Python · FastAPI · Docker · Linux · PostgreSQL
+**Stack:** Go · Rust · Docker · Linux · PostgreSQL
 
 * Built a lightweight server agent using Go.
-* Developed a central orchestration API with FastAPI.
+* Developed a central orchestration API with Rust.
 * Implemented remote server and container management.
 * Extended the architecture to communicate with IoT devices such as ESP32 modules.
 
@@ -87,7 +72,7 @@ Distributed system for remotely managing and monitoring Linux servers.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nodejs,express,nextjs,react,go,postgres,mysql,sqlite,redis,docker,nginx,linux,git,github,githubactions,aws,cloudflare&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,python,rust,go,postgres,mysql,sqlite,redis,docker,nginx,linux,aws,cloudflare&perline=11" />
   </a>
 </p>
 
