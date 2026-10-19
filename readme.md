@@ -1,6 +1,6 @@
 # Hi, I'm Isaías Méndez 👋
 
-### Backend / Full-Stack Developer
+### Backend / Software Developer
 
 I'm a software developer from Ecuador focused on building **backend systems, APIs, web applications, and infrastructure**.
 
