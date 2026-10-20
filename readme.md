@@ -26,7 +26,7 @@ Full-stack system for real-time restaurant order processing.
 * Delivery order workflows alongside dine-in orders.
 * Dockerized with Compose and deployed automatically via GitHub Actions.
 
-### Linux Server Orchestrator
+### OctoOps - Linux Server Orchestrator
 
 Distributed system to remotely manage and monitor Linux servers.
 
