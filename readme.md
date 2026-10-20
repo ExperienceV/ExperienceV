@@ -1,94 +1,47 @@
 # Hi, I'm Isaías Méndez 👋
 
-### Backend / Software Developer
+### Backend / Software Developer from Ecuador
 
-I'm a software developer from Ecuador focused on building **backend systems, APIs, web applications, and infrastructure**.
+I build **backend systems, APIs and infrastructure**, from designing the API and database to containerizing and deploying on Linux servers (AWS EC2 and VPS). I also build full-stack apps with Next.js when the project needs it.
 
-I primarily work with **Python, FastAPI, PostgreSQL, Redis, and Docker**, while also building full-stack applications with **TypeScript, Next.js, and React**.
-
-I enjoy working across the entire lifecycle of an application — from designing an API and database architecture to containerizing and deploying services on Linux servers.
-
----
-
-## 🧑‍💻 About Me
-
-* 🔧 Backend development with **Python, Rust and Golang**
-* 🗄️ Relational databases with **PostgreSQL, MySQL & SQLite**
-* 🐳 Containerization and deployment with **Docker & Nginx**
-* ☁️ Experience deploying applications to **AWS EC2 and VPS environments**
-* 🔄 CI/CD using **GitHub Actions**
-* 🐧 Comfortable working with **Linux servers**
-
-Currently studying **Computer Science Engineering** and continuously improving my knowledge of software architecture, distributed systems, and cloud infrastructure.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Python` · `Go` · `Rust`
-
-**Databases**
-
-`PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `NoSQL`
-
-**DevOps & Infrastructure**
-
-`Docker` · `Nginx` · `CI/CD` · `Linux` · `AWS EC2` · `Cloudflare`
-
----
-
-## 🚀 Featured Projects
-
-### 🍽️ Orderly — Restaurant Order Management
-
-Full-stack restaurant management system focused on real-time order processing.
-
-**Stack:** FastAPI · Next.js · Redis · WebSockets · Docker
-
-* Built real-time kitchen order updates using WebSockets.
-* Implemented authentication, menus and order lifecycle management.
-* Developed delivery order workflows.
-* Containerized the application using Docker Compose.
-* Automated deployments with GitHub Actions.
-
----
-
-### 🖥️ Linux Server Orchestrator
-
-Distributed system for remotely managing and monitoring Linux servers.
-
-**Stack:** Go · Rust · Docker · Linux · PostgreSQL
-
-* Built a lightweight server agent using Go.
-* Developed a central orchestration API with Rust.
-* Implemented remote server and container management.
-* Extended the architecture to communicate with IoT devices such as ESP32 modules.
-
----
-
-## 🔧 Technologies
+Computer Science Engineering student.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,rust,go,postgres,redis,docker,nginx,linux,aws,cloudflare&perline=11" />
+    <img src="https://skillicons.dev/icons?i=git,python,go,rust,ts,nextjs,postgres,redis,docker,nginx,linux,aws,cloudflare&perline=13" />
   </a>
 </p>
 
 ---
 
-## 📫 Contact
+## 🚀 Featured Projects
 
-I'm open to opportunities involving **Backend Development, Full-Stack Development, APIs, automation, and cloud infrastructure**.
+### Orderly — Restaurant Order Management
 
-* 🌐 Portfolio: **[imdev](https://imdev.apeiriumx.com)**
-* 💼 LinkedIn: [Isaías Méndez Mera](https://linkedin.com/in/experiencev/)
-* 📧 Email: **[im2developer@gmail.com](mailto:im2developer@gmail.com)**
-* 📍 Ecuador
+Full-stack system for real-time restaurant order processing.
+
+**Stack:** FastAPI · Next.js · Redis · WebSockets · Docker
+
+* Real-time kitchen order updates over WebSockets.
+* Delivery order workflows alongside dine-in orders.
+* Dockerized with Compose and deployed automatically via GitHub Actions.
+
+### Linux Server Orchestrator
+
+Distributed system to remotely manage and monitor Linux servers.
+
+**Stack:** Go · Rust · Docker · PostgreSQL
+
+* Lightweight server agent written in Go.
+* Central orchestration API written in Rust.
+* Remote server and container management, extended to IoT devices like ESP32 modules.
 
 ---
 
-<p align="center">
-  <i>Building software, learning continuously, and turning ideas into working systems.</i>
-</p>
+## 📫 Contact
+
+Open to opportunities in backend, full-stack, APIs, automation and cloud infrastructure.
+
+* 🌐 Portfolio: [imdev.apeiriumx.com](https://imdev.apeiriumx.com)
+* 💼 LinkedIn: [Isaías Méndez Mera](https://linkedin.com/in/experiencev/)
+* 📧 Email: [im2developer@gmail.com](mailto:im2developer@gmail.com)
