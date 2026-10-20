@@ -16,16 +16,6 @@ Computer Science Engineering student.
 
 ## 🚀 Featured Projects
 
-### Orderly — Restaurant Order Management
-
-Full-stack system for real-time restaurant order processing.
-
-**Stack:** FastAPI · Next.js · Redis · WebSockets · Docker
-
-* Real-time kitchen order updates over WebSockets.
-* Delivery order workflows alongside dine-in orders.
-* Dockerized with Compose and deployed automatically via GitHub Actions.
-
 ### OctoOps - Linux Server Orchestrator
 
 Distributed system to remotely manage and monitor Linux servers.
@@ -36,6 +26,15 @@ Distributed system to remotely manage and monitor Linux servers.
 * Central orchestration API written in Rust.
 * Remote server and container management, extended to IoT devices like ESP32 modules.
 
+### Orderly — Restaurant Order Management
+
+Full-stack system for real-time restaurant order processing.
+
+**Stack:** FastAPI · Next.js · Redis · WebSockets · Docker
+
+* Real-time kitchen order updates over WebSockets.
+* Delivery order workflows alongside dine-in orders.
+* Dockerized with Compose and deployed automatically via GitHub Actions.
 ---
 
 ## 📫 Contact
