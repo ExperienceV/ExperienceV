@@ -18,9 +18,9 @@ Computer Science Engineering student.
 
 ### OctoOps - Linux Server Orchestrator
 
-Distributed system to remotely manage and monitor Linux servers.
+Distributed system to remotely manage and monitor Linux servers and IoT devices.
 
-**Stack:** Go · Rust · Docker · PostgreSQL
+**Stack:** Go · Rust · Docker · PostgreSQL · Linux
 
 * Lightweight server agent written in Go.
 * Central orchestration API written in Rust.
